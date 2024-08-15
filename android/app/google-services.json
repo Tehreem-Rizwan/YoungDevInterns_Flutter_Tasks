@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "594972828394",
+    "project_id": "round-gamma-421917",
+    "storage_bucket": "round-gamma-421917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594972828394:android:c93b32157fc45aa9a5ed93",
+        "android_client_info": {
+          "package_name": "com.example.doctorsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-NQZr_Duf7FjFVL70jtdamRMSA03Amo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594972828394:android:26dc7d860a02b10aa5ed93",
+        "android_client_info": {
+          "package_name": "com.example.e_library"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-NQZr_Duf7FjFVL70jtdamRMSA03Amo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
